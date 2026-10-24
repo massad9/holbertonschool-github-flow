@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-Effective teamwork depends on continuous feedback and shared understanding.
-=======
-Collaboration requires clear communication and well-defined responsibilities.
->>>>>>> 4a9b92bfb58b7de562fbff8c38eca1eeec4001ae
+Collaboration requires adaptability, trust, and continuous alignment among team members.
 
 Collaboration in this project is intentionally simple so that the focus remains on learning version control practices. Contributors are encouraged to make small, focused changes and to explain their reasoning clearly in commit messages and pull requests.
 
